@@ -1,0 +1,31 @@
+POST http://localhost:8080/api/reservation
+Content-Type: application/json
+
+{
+    "name": "John Doe",
+    "email": "JohnDoe@example.com",
+    "age": "20",
+    "adress": "1419 Westwood Blvd, Los Angeles, CA",
+    "reservationDate": "01/02/2024"
+}
+
+###
+
+GET http://localhost:8080/api/reservations
+
+###
+
+PUT http://localhost:8080/api/reservations/:id
+Content-Type: application/json
+
+{
+    "name": "John Doe",
+    "email": "JohnDoe@example.com",
+    "age": "20",
+    "adress": "1419 Westwood Blvd, Los Angeles, CA",
+    "reservationDate": "10/02/2024"
+}
+
+###
+
+DELETE http://localhost:8080/api/reservations/:id
