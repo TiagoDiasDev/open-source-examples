@@ -1,6 +1,6 @@
 # Projeto Fastify e Jest
 
-Um pequeno projeto de back-end NodeJS utilizando o framework Fastify e com implementação de testes end-to-end de todas as API's. Foram usados os quatro mais conhecidos métodos HTTP para os testes, GET,POST,PUT,DELETE.
+Um pequeno projeto de back-end NodeJS utilizando o framework Fastify e com implementação de testes end-to-end de todas as API's. Foram usados os quatro mais conhecidos métodos HTTP para os testes, GET,POST,PUT,DELETE. É usado neste projeto uma extensão do VSCode chamada Rest Client para testar as chamadas de API.
 
 ## Instalação
 
