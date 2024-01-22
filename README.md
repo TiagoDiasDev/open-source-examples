@@ -8,7 +8,7 @@ A conglomerate of code examples with the main focus being to serve as study exam
 |  ReactJS    |   Jest   |  NextJS    |   NodeJS    |
 | :--: | :--: | :--: | :--: |
 | ![ReactJS](https://github.com/DiasConsultoria/open-source-examples/assets/139802901/af18f21b-dbcc-46fa-be72-186a77dab934) | ![Jest](https://github.com/DiasConsultoria/open-source-examples/assets/139802901/42556d82-0698-4cf6-85ba-5cf3dda79f8f) | ![NextJS](https://github.com/DiasConsultoria/open-source-examples/assets/139802901/96f255a9-6796-4289-8530-89ffcb2f3309) | ![nodejs](https://github.com/DiasConsultoria/open-source-examples/assets/139802901/ddf617b6-2c87-428b-bdae-b0bbd7b745c5)
- |
+ 
 
 
 
