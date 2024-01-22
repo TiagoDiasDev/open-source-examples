@@ -2,21 +2,25 @@
 
 Um pequeno projeto em react usando o próximo framework js que tem como objetivo educacional um exemplo de como testar componentes de react através de jest.
 
-## Deploy
+## Instalação
 
-Para instalar dependências
+Para instalar dependências,  execute o seguinte comando:
 
 ```bash
-  npm i
+  npm install or npm i
 ```
+    
+## Deploy
 
-Para executar o aplicativo
+Para executar o aplicativo, execute o seguinte comando:
 
 ```bash
   npm run dev
 ```
 
-Para executar os testes
+## Rodando os testes
+
+Para executar os testes, execute o seguinte comando:
 
 ```bash
   npm test

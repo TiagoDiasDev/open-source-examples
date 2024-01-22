@@ -41,4 +41,5 @@ app.delete("/api/reservations/:id", (request, reply) => {
 
   return reply.status(204).send();
 });
+
 export default app;
