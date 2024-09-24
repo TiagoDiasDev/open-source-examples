@@ -14,7 +14,6 @@ A conglomerate of code examples with the main focus being to serve as study exam
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio_01-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://diasconsultoria.com/)
 [![portfolio](https://img.shields.io/badge/my_portfolio_02-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.tiagodiasdev.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-dias-23b011198/)
 
